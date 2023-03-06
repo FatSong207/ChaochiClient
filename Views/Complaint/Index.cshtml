@@ -1,0 +1,98 @@
+﻿@{
+    ViewBag.Title = "客訴管理";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<form id="frmPage" method="post">
+    <div class="page-bar">
+        <ul class="page-breadcrumb">
+            <li>
+                <a href="/Complaint">客訴單填寫</a>
+            </li>
+        </ul>
+    </div>
+    <div class="portlet light page_con">
+        <h2>客訴單填寫</h2>
+        <div class="edit_input dialog-form" id="complaintForm">
+            <div class="mb-3 row">
+                <label for="staticEmail" class="form_label">驗證碼：</label>
+                <input type="text" class="form-control_1 input-xsmall" name="C1"><img id="code" src="/Complaint/Captcha/" class="form_label" style="cursor: pointer;vertical-align: middle;" /><button type="button" class="btn btn-success" onclick="RefreshCaptcha()">更新驗證碼</button>
+            </div>
+            <div class="mb-3 row">
+                <label for="staticEmail" class="form_label">您的姓名：</label>
+                <input type="text" class="form-control_1" name="C2">
+            </div>
+            <div class="mb-3 row">
+                <label for="staticEmail" class="form_label">連絡電話：</label>
+                <input type="text" class="form-control_1" name="C3">
+            </div>
+            <div class="mb-3 row">
+                <label for="staticEmail" class="form_label">連絡郵箱：</label>
+                <input type="text" class="form-control_1" name="C4">
+            </div>
+            <div class="mb-3 row">
+                <label for="staticEmail" class="form_label">連絡時段：</label>
+                <input type="text" class="form-control_1" name="C5">
+            </div>
+            <div class="mb-3 row">
+                <label for="staticEmail" class="form_label">客訴類別：</label>
+                <select class="form-control_1" name="C6">
+                    <option>服務不周</option>
+                    <option>合約糾紛</option>
+                    <option>提供意見</option>
+                    <option>尋求資訊援助</option>
+                    <option>其他</option>
+                </select>
+            </div>
+            <div class="mb-3 row">
+                <label for="staticEmail" class="form_label">投訴公司/部門：</label>
+                <input type="text" class="form-control_1" name="C7">
+            </div>
+            <div class="mb-3 row">
+                <label for="staticEmail" class="form_label">投訴對象：</label>
+                <input type="text" class="form-control_1" name="C8">
+            </div>
+            <div class="mb-3 row">
+                <label for="staticEmail" class="form_label">有糾紛的合約號碼：</label>
+                <input type="text" class="form-control_1" name="C9">
+            </div>
+            <div class="mb-3 row">
+                <label for="staticEmail" class="form_label">投訴事由：</label>
+                <textarea class="form-textarea-control_1" name="C10"></textarea>
+            </div>
+            <div class="mb-3 row">
+                <label for="staticEmail" class="form_label">提供意見：</label>
+                <textarea class="form-textarea-control_1" name="C11"></textarea>
+            </div>
+            <div class="right">
+                <button type="button" class="btn btn-primary" onclick="SubmitComplaintForm()">送出</button>
+            </div>
+            
+        </div>
+    </div>
+</form>
+
+@section scripts {
+<script language="javascript">
+
+    function SubmitComplaintForm(){
+        var tags = $('#complaintForm').tags(tags)
+        Sys.Exec("Insert",tags,(rtn)=>{
+            if(rtn[1] == "Y"){
+                layer.alert("成功")
+                location.reload();
+            }else if (rtn[1] == "C"){
+                alert("驗證碼錯誤!")
+            }else{
+                alert("失敗")
+            }
+        })
+        
+    }
+    
+    function RefreshCaptcha(){
+        var timeStamp = (new Date()).valueOf();
+        $('#code').attr("src",`/Complaint/Captcha/?q=${timeStamp}`)
+    }
+
+</script>
+}

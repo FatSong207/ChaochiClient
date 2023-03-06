@@ -1,0 +1,40 @@
+[
+  {
+    "outputFileName": "wwwroot/css/site.min.css",
+    "inputFiles": [
+      "wwwroot/css/fontawesome.min.css",
+      "wwwroot/css/brands.min.css",
+      "wwwroot/css/solid.min.css",
+      "wwwroot/css/regular.min.css",
+      "wwwroot/css/simple-line-icons.min.css",
+      "wwwroot/css/bootstrap.min.css",
+      "wwwroot/css/components.min.css",
+      "wwwroot/css/layout.min.css",
+      "wwwroot/css/darkblue.css",
+      "wwwroot/css/style.css"
+    ],
+    "minify": {
+      "enabled": false
+    }
+  },
+  {
+    "outputFileName": "wwwroot/js/site.min.js",
+    "inputFiles": [
+      "wwwroot/js/jquery.min.js",
+      "wwwroot/js/autoNumeric-min.js",
+      "wwwroot/js/aes.min.js",
+      "wwwroot/js/base.min.js",
+      "wwwroot/js/bootstrap.min.js",
+      "wwwroot/js/app.min.js",
+      "wwwroot/js/layout.min.js",
+      "wwwroot/js/components-date-time-pickers.min.js",
+      "wwwroot/js/bootstrap-datepicker.min.js",
+      "wwwroot/js/bootbox.min.js"
+    ],
+    "minify": {
+      "enabled": false,
+      "renameLocals": true
+    },
+    "sourceMap": false
+  }
+]

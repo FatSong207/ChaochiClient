@@ -1,0 +1,1089 @@
+Z:\WebAdmin\bin\Debug\net6.0\web.config
+Z:\WebAdmin\bin\Debug\net6.0\appsettings.Development.json
+Z:\WebAdmin\bin\Debug\net6.0\appsettings.json
+Z:\WebAdmin\bin\Debug\net6.0\bundleconfig.json
+Z:\WebAdmin\bin\Debug\net6.0\WebAdmin.staticwebassets.runtime.json
+Z:\WebAdmin\bin\Debug\net6.0\WebAdmin.exe
+Z:\WebAdmin\bin\Debug\net6.0\WebAdmin.deps.json
+Z:\WebAdmin\bin\Debug\net6.0\WebAdmin.runtimeconfig.json
+Z:\WebAdmin\bin\Debug\net6.0\WebAdmin.dll
+Z:\WebAdmin\bin\Debug\net6.0\WebAdmin.pdb
+Z:\WebAdmin\bin\Debug\net6.0\ClosedXML.dll
+Z:\WebAdmin\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+Z:\WebAdmin\bin\Debug\net6.0\ExcelNumberFormat.dll
+Z:\WebAdmin\bin\Debug\net6.0\Humanizer.dll
+Z:\WebAdmin\bin\Debug\net6.0\MessagePack.dll
+Z:\WebAdmin\bin\Debug\net6.0\MessagePack.Annotations.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+Z:\WebAdmin\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+Z:\WebAdmin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\WebAdmin\bin\Debug\net6.0\Newtonsoft.Json.dll
+Z:\WebAdmin\bin\Debug\net6.0\NuGet.Common.dll
+Z:\WebAdmin\bin\Debug\net6.0\NuGet.Configuration.dll
+Z:\WebAdmin\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+Z:\WebAdmin\bin\Debug\net6.0\NuGet.Frameworks.dll
+Z:\WebAdmin\bin\Debug\net6.0\NuGet.LibraryModel.dll
+Z:\WebAdmin\bin\Debug\net6.0\NuGet.Packaging.dll
+Z:\WebAdmin\bin\Debug\net6.0\NuGet.ProjectModel.dll
+Z:\WebAdmin\bin\Debug\net6.0\NuGet.Protocol.dll
+Z:\WebAdmin\bin\Debug\net6.0\NuGet.Versioning.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.Data.SQLite.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.CodeDom.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.Composition.Convention.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.Composition.Hosting.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.Composition.Runtime.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.Composition.TypedParts.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.Data.OleDb.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.Data.SqlClient.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.DirectoryServices.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.Drawing.Common.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.IO.Packaging.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.Runtime.Caching.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.Security.Permissions.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.ServiceProcess.ServiceController.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.Text.Json.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.Windows.Extensions.dll
+Z:\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+Z:\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Z:\WebAdmin\bin\Debug\net6.0\System.Set.dll
+Z:\WebAdmin\obj\Debug\net6.0\WebAdmin.csproj.AssemblyReference.cache
+Z:\WebAdmin\obj\Debug\net6.0\WebAdmin.GeneratedMSBuildEditorConfig.editorconfig
+Z:\WebAdmin\obj\Debug\net6.0\WebAdmin.AssemblyInfoInputs.cache
+Z:\WebAdmin\obj\Debug\net6.0\WebAdmin.AssemblyInfo.cs
+Z:\WebAdmin\obj\Debug\net6.0\WebAdmin.csproj.CoreCompileInputs.cache
+Z:\WebAdmin\obj\Debug\net6.0\WebAdmin.MvcApplicationPartsAssemblyInfo.cs
+Z:\WebAdmin\obj\Debug\net6.0\WebAdmin.MvcApplicationPartsAssemblyInfo.cache
+Z:\WebAdmin\obj\Debug\net6.0\WebAdmin.RazorAssemblyInfo.cache
+Z:\WebAdmin\obj\Debug\net6.0\WebAdmin.RazorAssemblyInfo.cs
+Z:\WebAdmin\obj\Debug\net6.0\staticwebassets.build.json
+Z:\WebAdmin\obj\Debug\net6.0\staticwebassets.development.json
+Z:\WebAdmin\obj\Debug\net6.0\scopedcss\bundle\WebAdmin.styles.css
+Z:\WebAdmin\obj\Debug\net6.0\WebAdmin.csproj.CopyComplete
+Z:\WebAdmin\obj\Debug\net6.0\WebAdmin.dll
+Z:\WebAdmin\obj\Debug\net6.0\refint\WebAdmin.dll
+Z:\WebAdmin\obj\Debug\net6.0\WebAdmin.pdb
+Z:\WebAdmin\obj\Debug\net6.0\WebAdmin.genruntimeconfig.cache
+Z:\WebAdmin\obj\Debug\net6.0\ref\WebAdmin.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\appsettings.Development.json
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\appsettings.json
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\bundleconfig.json
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\web.config
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\WebAdmin.staticwebassets.runtime.json
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\WebAdmin.exe
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\WebAdmin.deps.json
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\WebAdmin.runtimeconfig.json
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\WebAdmin.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\WebAdmin.pdb
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ClosedXML.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ExcelNumberFormat.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Humanizer.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\MessagePack.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\NuGet.Common.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.Data.SQLite.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.CodeDom.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.Data.OleDb.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.DirectoryServices.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.IO.Packaging.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.ServiceProcess.ServiceController.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.Text.Json.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\! .Net Core\WebAdmin\bin\Debug\net6.0\System.Set.dll
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\WebAdmin.csproj.AssemblyReference.cache
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\WebAdmin.GeneratedMSBuildEditorConfig.editorconfig
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\WebAdmin.AssemblyInfoInputs.cache
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\WebAdmin.AssemblyInfo.cs
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\WebAdmin.csproj.CoreCompileInputs.cache
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\WebAdmin.MvcApplicationPartsAssemblyInfo.cs
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\WebAdmin.MvcApplicationPartsAssemblyInfo.cache
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\WebAdmin.RazorAssemblyInfo.cache
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\WebAdmin.RazorAssemblyInfo.cs
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\staticwebassets.build.json
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\staticwebassets.development.json
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\scopedcss\bundle\WebAdmin.styles.css
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\WebAdmin.csproj.CopyComplete
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\WebAdmin.dll
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\refint\WebAdmin.dll
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\WebAdmin.pdb
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\WebAdmin.genruntimeconfig.cache
+F:\! .Net Core\WebAdmin\obj\Debug\net6.0\ref\WebAdmin.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\web.config
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\appsettings.Development.json
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\bundleconfig.json
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\appsettings.json
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\WebAdmin.staticwebassets.runtime.json
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\WebAdmin.exe
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\WebAdmin.deps.json
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\WebAdmin.runtimeconfig.json
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\WebAdmin.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\WebAdmin.pdb
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ClosedXML.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ExcelNumberFormat.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Humanizer.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\MessagePack.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\NuGet.Common.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.Data.SQLite.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.CodeDom.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.Data.OleDb.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.ServiceProcess.ServiceController.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.Text.Json.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\System.Set.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\WebAdmin.csproj.AssemblyReference.cache
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\WebAdmin.GeneratedMSBuildEditorConfig.editorconfig
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\WebAdmin.AssemblyInfoInputs.cache
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\WebAdmin.AssemblyInfo.cs
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\WebAdmin.csproj.CoreCompileInputs.cache
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\WebAdmin.MvcApplicationPartsAssemblyInfo.cs
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\WebAdmin.MvcApplicationPartsAssemblyInfo.cache
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\WebAdmin.RazorAssemblyInfo.cache
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\WebAdmin.RazorAssemblyInfo.cs
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\staticwebassets.build.json
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\staticwebassets.development.json
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\scopedcss\bundle\WebAdmin.styles.css
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\WebAdmin.csproj.CopyComplete
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\WebAdmin.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\refint\WebAdmin.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\WebAdmin.pdb
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\WebAdmin.genruntimeconfig.cache
+D:\案案案案案\WebAdmin example site\App\WebAdmin\obj\Debug\net6.0\ref\WebAdmin.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\案案案案案\WebAdmin example site\App\WebAdmin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\appsettings.Development.json
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\web.config
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\appsettings.json
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\bundleconfig.json
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\WebAdmin.staticwebassets.runtime.json
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\WebAdmin.exe
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\WebAdmin.deps.json
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\WebAdmin.runtimeconfig.json
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\WebAdmin.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\WebAdmin.pdb
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ClosedXML.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ExcelNumberFormat.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Humanizer.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\MessagePack.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\NuGet.Common.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.Data.SQLite.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.CodeDom.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.Data.OleDb.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.ServiceProcess.ServiceController.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.Text.Json.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ccOut\ChaochiFront\bin\Debug\net6.0\System.Set.dll
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\WebAdmin.csproj.AssemblyReference.cache
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\WebAdmin.GeneratedMSBuildEditorConfig.editorconfig
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\WebAdmin.AssemblyInfoInputs.cache
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\WebAdmin.AssemblyInfo.cs
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\WebAdmin.csproj.CoreCompileInputs.cache
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\WebAdmin.MvcApplicationPartsAssemblyInfo.cs
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\WebAdmin.MvcApplicationPartsAssemblyInfo.cache
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\WebAdmin.RazorAssemblyInfo.cache
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\WebAdmin.RazorAssemblyInfo.cs
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\staticwebassets\msbuild.WebAdmin.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAdmin.props
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAdmin.props
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAdmin.props
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\staticwebassets.build.json
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\staticwebassets.development.json
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\scopedcss\bundle\WebAdmin.styles.css
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\WebAdmin.csproj.CopyComplete
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\WebAdmin.dll
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\refint\WebAdmin.dll
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\WebAdmin.pdb
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\WebAdmin.genruntimeconfig.cache
+D:\ccOut\ChaochiFront\obj\Debug\net6.0\ref\WebAdmin.dll

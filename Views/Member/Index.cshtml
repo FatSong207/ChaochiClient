@@ -1,0 +1,231 @@
+﻿@{
+    ViewBag.Title = "Member";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<form id="frmPage" method="post">
+    <div class="page-bar">
+        <ul class="page-breadcrumb">
+            <li>
+                <a href="#">Home</a>
+            </li>
+            <li>
+                <a href="#">會員管理</a>
+            </li>
+            <li>
+                <a href="/Member">會員資料</a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="portlet light page_con">
+        <h2>會員資料</h2>
+
+        <div class="table-toolbar">
+            <div class="left">
+                <p class="class_title">客戶類型</p>
+                <select class="form-control_1" onChange="DoFunc('ListPage,1')">
+                    <option>全部</option>
+                    <option>接洽中</option>
+                    <option>已簽約</option>
+                    <option>已解約</option>
+                </select>
+            </div>
+
+            <div class="right">
+                <button class="btn blue search_icon">搜尋 <i class="fa fa-search"></i></button>
+                <button class="btn green-meadow member_add">新增 <i class="fa fa-plus"></i></button>
+            </div>
+        </div>
+        <div class="search_menu" id="tbQuery" style="display:none;">
+            <div class="con">
+                <div class="item">
+                    <div class="title">關鍵字</div>
+                    <div class="con_font">
+                        <input type="text" class="form-control" name="C1">
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="title">客戶類型</div>
+                    <div class="con_font">
+                        <select class="form-control w-auto" name="C2">
+                            <option>全部</option>
+                            <option>接洽中</option>
+                            <option>已簽約</option>
+                            <option>已解約</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="title">審核狀態</div>
+                    <div class="con_font">
+                        <select class="form-control w-auto" name="C3">
+                            <option>全部</option>
+                            <option>審核中</option>
+                            <option>已通過</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center search_padding">
+                <button class="btn blue do-search-list">搜尋 <i class="fa fa-search"></i></button>
+            </div>
+        </div>
+        <div id="ListPage"></div>
+    </div>
+
+    <div class="form-Member" style="display:none;">
+        <div class="edit_input dialog-form">
+            <div class="item">
+                <div class="title">客戶類型</div>
+                <div class="con_font">
+                    <select class="form-control w-auto">
+                        <option value="" disabled="disabled" selected="selected">請選擇</option>
+                        <option>接洽中</option>
+                        <option>已簽約</option>
+                        <option>已解約</option>
+                    </select>
+                </div>
+            </div>
+            <div class="item">
+                <div class="title"><span class="red">*</span> 姓名</div>
+                <div class="con_font">
+                    <input type="text" class="form-control input-small" name="B1">
+                </div>
+            </div>
+            <div class="item">
+                <div class="title"><span class="red">*</span> 性別</div>
+                <div class="con_font">
+                    <label class="mt-radio mt-radio-outline">
+                        <input type="radio" name="gender">男
+                        <span></span>
+                    </label>
+                    <label class="mt-radio mt-radio-outline">
+                        <input type="radio" name="gender">女
+                        <span></span>
+                    </label>
+                </div>
+            </div>
+            <div class="item">
+                <div class="title"><span class="red">*</span> 生日</div>
+                <div class="con_font">
+                    <!-- <input class="form-control form-control-inline input-small date-picker" size="16" type="text" placeholder="選取日期" data-date-format="yyyy/mm/dd"/> -->
+                    <input type="date" class="form-control">
+                </div>
+            </div>
+            <div class="item">
+                <div class="title"><span class="red">*</span> 身分證字號</div>
+                <div class="con_font">
+                    <input type="text" class="form-control input-small" name="B2">
+                </div>
+            </div>
+            <div class="item">
+                <div class="title"><span class="red">*</span> 手機</div>
+                <div class="con_font">
+                    <input type="text" class="form-control input-small">
+                </div>
+            </div>
+            <div class="item">
+                <div class="title">室話</div>
+                <div class="con_font">
+                    <input type="text" class="form-control input-small">
+                </div>
+            </div>
+            <div class="item">
+                <div class="title">聯絡地址</div>
+                <div class="con_font">
+                    <input type="text" class="form-control input-large">
+                </div>
+            </div>
+        </div>
+    </div>
+
+</form>
+
+@section scripts {
+    <script language="javascript">
+
+        function DoFunc(func, keyValue, keyValueB) {
+            if (typeof (keyValue) == 'undefined') { keyValue = ''; }
+            if (typeof (keyValueB) == 'undefined') { keyValueB = ''; }
+
+            if (func.indexOf(',') != -1) {
+                var vars = InitPageVars(func, 5);
+                if (vars == null) { return; }
+                $("#ListPage_WaitPart").show();
+                $("#ListPage").hide();
+
+                var tags = $("#tbQuery").tags(vars);
+                Sys.Exec("ListProvider", tags);
+            } else {
+                switch (func) {
+                    case "Modify":
+                        var addNew = keyValue == "";
+                        var tags = {
+                            FormId: "form-Member",
+                            SN: keyValue
+                        }
+                        var dialog = bootbox.dialog({
+                            title: `${(addNew ? "新增" : "維護")}會員資料`,
+                            message: $(`.${tags.FormId}`).html(),
+                            onEscape: true,
+                            buttons: {
+                                ok: {
+                                    label: "確認",
+                                    className: 'btn-primary',
+                                    callback: function() {
+                                        tags = $(".modal-content .dialog-form").tags(tags);
+                                        Sys.Exec("Update", tags, function() {
+                                            DoFunc("ListPage,n");
+                                            alert(addNew ? "新增完成" : "修改完成");
+                                        });
+                                    }
+                                },
+                                delete: {
+                                    label: "刪除",
+                                    className: 'btn-danger',
+                                    callback: function() {
+                                        Sys.Exec("Delete", tags, function() {
+                                            DoFunc("ListPage,n");
+                                            alert("刪除完成");
+                                        });
+                                    }
+                                },
+                                cancel: {
+                                    label: "取消",
+                                    className: 'btn-default'
+                                }
+                            }
+                        });
+                        dialog.init(function(){
+                            Sys.Exec("Info", tags);
+                        });
+                        break;
+                }
+            }
+        }
+
+        function SetValue() {
+            $(".do-search-list").click(function(e){
+                preventDefault(e);
+                DoFunc("ListPage,1");
+	        });
+            $(".member_add").click(function(e){
+                preventDefault(e);
+                DoFunc("Modify");
+	        });
+	        $(".search_icon").click(function(e){
+                preventDefault(e);
+		        var collapsed=$(this).find('i').hasClass('fa-search-minus');
+		        $(".search_menu").slideToggle();	
+		        $('.search_icon').find('i').removeClass('fa-search');
+		        $('.search_icon').find('i').addClass('fa-search-minus');
+		        if(collapsed)
+			        $(this).find('i').toggleClass('fa-search-minus fa-2x fa-search fa-2x')
+	        });
+            DoFunc("ListPage,1");
+        }
+
+        SetValue();
+
+    </script>
+}

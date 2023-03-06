@@ -1,0 +1,355 @@
+﻿@using WebAdmin.Function.Helper;
+@{
+    ViewBag.Title = "修繕通報";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var uuid = Helper.CreateId();
+}
+<form id="frmPage" method="post">
+    <div class="page-bar">
+        <ul class="page-breadcrumb">
+            <li>
+                <a href="/Member">修繕通報</a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="portlet light page_con">
+        <h2>修繕通報</h2>
+        <div class="table-toolbar" id="tbQuery">
+            <div class="left">
+                <p class="class_title">承租地址：</p>
+                <select class="form-control_1" name="A1" id="A1"
+                        onChange="DoFunc('GetSiteByCity')"></select>
+                <select class="form-control_1" name="A2" id="A2"
+                        onChange="DoFunc('GetRoadByCitySite')"></select>
+                <select class="form-control_1" name="A3" id="A3"></select>
+                <select class="form-control_1" name="A4">
+                    <option> </option>
+                    <option>一段</option>
+                    <option>二段</option>
+                    <option>三段</option>
+                    <option>四段</option>
+                    <option>五段</option>
+                    <option>六段</option>
+                    <option>七段</option>
+                    <option>八段</option>
+                    <option>九段</option>
+                    <option>十段</option>
+                </select>
+                <input type="text" class="form-control_1 input-xsmall" name="A5">
+                <p class="class_title">巷</p>
+                <input type="text" class="form-control_1 input-xsmall" name="A6">
+                <p class="class_title">弄</p>
+                <input type="text" class="form-control_1 input-xsmall" name="A7">
+                <p class="class_title">號</p>
+                <input type="text" class="form-control_1 input-xsmall" name="A8">
+                <p class="class_title">樓 之</p>
+                <input type="text" class="form-control_1 input-xsmall" name="A9">
+            </div>
+            <div class="left">
+                <p class="class_title">房客身份證字號/統一編號：</p>
+                <input type="text" class="form-control_1 input-sm" name="B1" id="B1">
+            </div>
+            <div class="right">
+                <button class="btn blue search_icon" onclick="DoFunc('ListPage,1')">
+                    查詢 <i class="fa fa-search"></i>
+                </button>
+                <button class="btn green-meadow member_add" id="apply" style="display:none;">
+                    申請 <i class="fa fa-plus"></i>
+                </button>
+            </div>
+        </div>
+        <div id="ListPage"></div>
+    </div>
+
+    <div class="form-Member" style="display:none;">
+        <div id="dialog">
+            <div class="edit_input dialog-form">
+                <div class="item">
+                    <div class="title">申報地址為</div>
+                    <div class="con_font">
+                        <input type="text" class="form-control input-large" name="C1" disabled>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="title required"><span>*</span>報修人姓名</div>
+                    <div class="con_font">
+                        <input type="text" class="form-control input-small" name="C2">
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="title required"><span>*</span>報修人電話</div>
+                    <div class="con_font">
+                        <input type="text" class="form-control input-small" name="C3">
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="title required"><span>*</span>可維修日期</div>
+                    <div class="con_font">
+                        <input type="date" id="C4" name="C4" class="testC4"
+                               min="@DateTime.Now.ToString("yyyy-MM-dd")" max="@DateTime.Now.AddYears(50).ToString("yyyy-MM-dd")">
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="title required"><span>*</span>可維修時間</div>
+                    <div class="con_font">
+                        <input type="time" id="C5" name="C5" required>
+                    </div>
+                </div>
+                <hr />
+                <span class="spanstyle"><h3><b>以下是此建物在合約中現有的登錄設備：</b></h3></span>
+                <div id="ListPage2" name="ListPage2" class="ex3"></div>
+                <hr />
+                <span class="spanstyle"><h3><b>以下是此建物非登錄在案的維修需求：</b></h3></span>
+                <div class="ex4">
+                    <table class="table rwd-table table-hover table-left" border="0" cellspacing="0" cellpadding="0">
+                        <thead>
+                            <tr>
+                                <th width="5%">序號</th>
+                                <th width="18%">須修繕項目</th>
+                                <th>修繕原因</th>
+                                <th width="10%">修繕前近照上傳</th>
+                                <th width="10%">修繕前遠照上傳</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @for (int i = 1; i <= 8; i++) {
+                                <tr>
+                                    <td data-th="序號">@i</td>
+                                    <td data-th="須修繕項目"><input type="text" class="form-control" name="@($"NINC{uuid}{i}")"></td>
+                                    <td data-th="修繕原因"><input type="text" class="form-control" name="@($"NINC{uuid}{i}")"></td>
+                                    <td data-th="修繕前近照"><input type="file" class="fileUpload" id="file1" name="@($"NINC{uuid}{i}")" accept="image/*" onchange="MakeTmb(this, '@($"NINC{uuid}{i}")', '近')" /></td>
+                                    <td data-th="修繕前遠照"><input type="file" class="fileUpload" id="file1" name="@($"NINC{uuid}{i}")" accept="image/*" onchange="MakeTmb(this, '@($"NINC{uuid}{i}")', '遠')" /></td>
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="DetailPage" name="DetailePage" style="display:none"></div>
+</form>
+
+@section scripts {
+    <script language="javascript">
+
+        function DoFunc(func, keyValue, keyValueB) {
+            if (typeof (keyValue) == 'undefined') { keyValue = ''; }
+            if (typeof (keyValueB) == 'undefined') { keyValueB = ''; }
+
+            if (func.indexOf(',') != -1) {
+                var vars = InitPageVars(func, 5);
+                if (vars == null) { return; }
+                $(".ListPage_WaitPart").show();
+                $("#ListPage").hide();
+
+
+                var tags = $("#tbQuery").tags(vars);
+                var msg = []
+                if (tags["B1"] === "") {
+                    msg.push("請輸入房客身份證字號/統一編號")
+                }
+                if (!(tags["A1"] && tags["A2"] && tags["A3"])) {
+                    msg.push("請輸入地址")
+                }
+                if (msg.length > 0) {
+                    alert(msg)
+                } else {
+                    Sys.Exec("ListProvider", tags);
+                }
+
+            } else {
+                switch (func) {
+                    case "Modify":
+                        //console.log("asd")
+                        var addNew = keyValue == "";
+                        var tags = {
+                            FormId: "form-Member",
+                            SN: keyValue
+                        }
+                        if (addNew) {
+                            tags = $('#tbQuery').tags(tags);
+                        }
+                        Sys.Exec("Info", tags, () => {
+                            Gendialog(addNew);
+                            Sys.Exec("Info", tags)
+                        });
+                        break;
+                    case "GetSiteByCity":
+                        var A1 = $('#A1').val()
+                        var tags = {
+                            city: A1
+                        }
+                        Sys.Exec("GetSiteByCity", tags)
+                        break;
+                    case "GetRoadByCitySite":
+                        var A1 = $('#A1').val()
+                        var A2 = $('#A2').val()
+                        var tags = {
+                            city: A1,
+                            site: A2
+                        }
+                        Sys.Exec("GetRoadByCitySite", tags)
+                    case "Check":
+                }
+            }
+        }
+
+        function SetValue() {
+            $(".do-search-list").click(function (e) {
+                preventDefault(e);
+                DoFunc("ListPage,1");
+            });
+            $(".member_add").click(function (e) {
+                preventDefault(e);
+                DoFunc("Modify");
+            });
+            $(".search_icon").click(function (e) {
+                preventDefault(e);
+                var collapsed = $(this).find('i').hasClass('fa-search-minus');
+                $(".search_menu").slideToggle();
+                $('.search_icon').find('i').removeClass('fa-search');
+                $('.search_icon').find('i').addClass('fa-search-minus');
+                if (collapsed)
+                    $(this).find('i').toggleClass('fa-search-minus fa-2x fa-search fa-2x')
+            });
+            var tags = {
+                isInit: "Y"
+            };
+
+            Sys.Exec("InitPage", tags)
+
+        }
+        function MakeTmb(event, id, distance) {
+            //$(id).empty();
+            if (event.files[0] == null) {
+                return false;
+            }
+            var file = event.files[0];
+            var fd = new FormData();
+            fd.append('file', file);
+            fd.append('Id', id);
+            fd.append('distance', distance);
+
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("UploadRepairImg", "EqRepair")',
+                data: fd,
+                processData: false,
+                contentType: false,
+                success: function (data) {
+                    layer.alert("上傳完成 !", { icon: 1 });
+                }
+            });
+
+        }
+        function Gendialog(addNew) {
+            var msg = $('.form-Member').html();
+            var dialog = bootbox.dialog({
+                title: `${(addNew ? "申請" : "維護")}修繕`,
+                message: $('#dialog').html(),
+                size: 'extra-large',
+                onEscape: true,
+                scrollable: true,
+                buttons: {
+                    ok: {
+                        label: "確認",
+                        className: 'btn-primary',
+                        callback: function () {
+                            var tags = $(".modal-content .dialog-form").tags(tags);
+                            var msg = [];
+                            if (tags["C2"] === "") {
+                                alert("請輸入報修人姓名")
+                                return false
+                            }
+                            if (tags["C3"] === "") {
+                                alert("請輸入報修人電話")
+                                return false
+                            }
+                            if (dialog.find('#C4').val() === "") {
+                                alert("請輸入可修繕日期")
+                                return false
+                            }
+                            if (dialog.find('#C5').val() === "") {
+                                alert("請輸入可修繕時間")
+                                return false
+                            }
+                            tags.CustomerId = $('#B1').val();
+                            tags.RepairDate = dialog.find('#C4').val()
+                            tags.RepairTime = dialog.find('#C5').val()
+                            Sys.Exec("Update", tags, function (rtn) {
+                                if (rtn[1] == 'error') {
+                                    alert("請輸入修繕原因、修繕前近照、修繕前遠照")
+                                } else {
+                                    DoFunc("ListPage,n");
+                                    bootbox.hideAll();
+                                    alert(addNew ? "新增完成" : "修改完成");
+                                }
+                            });
+                            return false;
+
+
+                        }
+                    },
+                    cancel: {
+                        label: "取消",
+                        className: 'btn-default'
+                    }
+                },
+                className: "modal70"
+            });
+        }
+        function info2(guid, State) {
+            var tags = {
+                guid: guid
+            }
+            Sys.Exec("Info2", tags, () => {
+                GenDetailDialog(guid, State);
+            })
+        }
+        function GenDetailDialog(guid, State) {
+            var dialog = bootbox.dialog({
+                title: `流水編號:${guid}<br/>當前狀態:${State}`,
+                message: $('#DetailPage').html(),
+                onEscape: true,
+                scrollable: true,
+                buttons: {
+                    cancel: {
+                        label: "取消",
+                        className: 'btn-default'
+                    }
+                },
+                className: "modal70"
+            });
+        }
+        SetValue();
+
+    </script>
+    <style>
+        .modal70 > .modal-dialog {
+            width: 95% !important;
+        }
+
+        div.ex3 {
+            border: 2px solid groove;
+            background-color: #f0f0f0;
+            width: 100%;
+            height: 340px;
+            overflow: auto;
+        }
+
+        div.ex4 {
+            border: 2px solid groove;
+            background-color: #f0f0f0;
+            width: 100%;
+            height: 240px;
+            overflow: auto;
+        }
+
+        .spanstyle {
+            padding: 2px
+        }
+    </style>
+}

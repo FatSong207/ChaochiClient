@@ -1,0 +1,438 @@
+﻿2022/8/15 上午 09:42:53 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 09:42:53 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:09:05 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:09:05 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:09:22 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:09:22 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:12:52 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:12:52 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:14:07 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:14:07 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:21:38 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:21:38 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:22:43 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:22:43 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:23:29 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:23:29 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:25:21 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:25:21 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:26:23 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:26:23 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:28:12 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:28:13 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:28:52 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:28:52 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:29:35 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:29:35 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:30:22 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:30:23 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:34:20 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:34:20 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:35:05 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:35:05 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:35:24 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:35:24 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:36:39 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:36:39 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:37:47 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:37:47 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:38:24 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:38:25 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:40:09 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:40:09 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:45:08 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:45:08 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:49:13 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:49:14 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:50:10 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:50:10 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:57:36 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 10:57:37 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:04:10 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:04:10 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:17:02 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:17:02 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:19:19 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:19:19 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:20:16 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:20:17 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:22:00 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:22:00 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:22:41 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:22:41 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:23:44 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:23:44 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:28:31 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:28:32 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:28:56 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:28:56 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:30:13 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:30:13 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:31:29 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:31:29 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:31:43 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:31:43 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:36:15 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:36:15 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:36:34 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:36:34 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:39:04 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:39:04 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:41:17 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:41:17 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:42:15 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:42:15 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:43:45 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:43:45 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:44:32 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:44:32 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:45:04 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:45:04 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:49:21 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 上午 11:49:21 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 12:02:56 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 12:02:56 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 12:04:57 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 12:04:57 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 12:05:41 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 12:05:41 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 12:14:11 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 12:14:11 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 12:35:24 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 12:35:24 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 01:51:56 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 01:51:56 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 01:55:49 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 01:55:49 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 01:57:17 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 01:57:17 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 01:59:17 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 01:59:17 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:00:24 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:00:24 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:01:35 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:01:35 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:02:57 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:02:57 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:03:57 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:03:57 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:30:43 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:30:43 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:31:21 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:31:21 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:37:18 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:37:18 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:41:58 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:41:58 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:42:54 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:42:54 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:44:07 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:44:07 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:44:19 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:44:19 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:47:28 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:47:28 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:48:37 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:48:38 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:50:38 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:50:38 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:52:17 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:52:17 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:53:49 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:53:49 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:55:50 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:55:51 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:58:33 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 02:58:33 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:02:03 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:02:03 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:02:49 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:02:49 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:03:00 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:03:00 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:04:58 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:04:59 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:07:13 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:07:13 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:08:02 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:08:03 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:09:30 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:09:30 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:10:47 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:10:48 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:13:41 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:13:42 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:27:03 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:27:04 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:27:21 : One or more errors occurred. ('System.Data.DataRow' does not contain a definition for 'Data') : 'System.Data.DataRow' does not contain a definition for 'Data'
+2022/8/15 下午 03:27:45 : One or more errors occurred. ('System.Data.DataRow' does not contain a definition for 'Data') : 'System.Data.DataRow' does not contain a definition for 'Data'
+2022/8/15 下午 03:30:33 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:30:34 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:30:52 : One or more errors occurred. ('System.Data.DataRow' does not contain a definition for 'Data') : 'System.Data.DataRow' does not contain a definition for 'Data'
+2022/8/15 下午 03:31:58 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:31:58 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:32:14 : One or more errors occurred. ('System.Data.DataRow' does not contain a definition for 'Data') : 'System.Data.DataRow' does not contain a definition for 'Data'
+2022/8/15 下午 03:34:01 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:34:01 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:35:36 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:35:36 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:36:12 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 03:38:37 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:38:37 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:39:48 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 03:40:42 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 03:42:35 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 03:42:56 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 03:50:42 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:50:42 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:52:38 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 03:53:32 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 03:53:36 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 03:54:34 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 03:57:38 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:57:39 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:57:53 : One or more errors occurred. ('System.Data.DataRow' does not contain a definition for 'RecordCount') : 'System.Data.DataRow' does not contain a definition for 'RecordCount'
+2022/8/15 下午 03:59:33 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:59:33 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:59:36 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:59:36 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 03:59:52 : One or more errors occurred. ('System.Array' does not contain a definition for 'RecordCount') : 'System.Array' does not contain a definition for 'RecordCount'
+2022/8/15 下午 04:00:01 : One or more errors occurred. ('System.Array' does not contain a definition for 'RecordCount') : 'System.Array' does not contain a definition for 'RecordCount'
+2022/8/15 下午 04:00:38 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:00:38 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:00:58 : One or more errors occurred. ('System.Array' does not contain a definition for 'Count') : 'System.Array' does not contain a definition for 'Count'
+2022/8/15 下午 04:02:00 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:02:00 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:02:16 : One or more errors occurred. ('System.Array' does not contain a definition for 'Lenght') : 'System.Array' does not contain a definition for 'Lenght'
+2022/8/15 下午 04:02:38 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:02:39 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:03:11 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 04:03:47 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:03:47 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:04:02 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 04:04:02 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 04:06:09 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:06:09 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:06:24 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:06:24 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:06:42 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 04:07:22 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 04:07:53 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:07:53 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:08:10 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 04:08:37 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:08:37 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:09:25 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 04:23:20 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:23:20 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:26:01 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:26:02 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:29:16 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:29:16 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:29:26 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:29:26 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:34:30 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:34:30 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:36:20 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:36:20 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:39:23 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:39:24 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:43:46 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:43:46 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:44:06 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 04:49:30 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:49:30 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:58:20 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:58:20 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 04:58:36 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 04:58:37 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 04:59:35 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 05:02:15 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 05:02:15 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 05:05:09 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 05:05:09 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 05:07:19 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 05:07:50 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 05:08:17 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 05:08:17 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 05:08:45 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 05:08:47 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 05:09:00 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 05:09:19 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 05:09:24 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 05:11:00 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 05:21:17 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 05:21:17 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 05:21:25 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 05:21:25 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 05:21:41 : Could not find a part of the path 'D:\zzz\image\EqRepair\20220815171546361867465517\20220815171546365432850421\images (11)維修前遠照.jpg'.
+2022/8/15 下午 05:21:41 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 05:21:41 : Could not find a part of the path 'D:\zzz\image\EqRepair\20220815171546361867465517\20220815171546365432850421\IMG_6795維修前近照.JPG'.
+2022/8/15 下午 05:24:36 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 05:24:37 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 05:24:58 : Could not find a part of the path 'D:\zzz\image\EqRepair\20220815171546361867465517\20220815171546365432850421\IMG_6795維修前近照.JPG'.
+2022/8/15 下午 05:24:58 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 05:27:19 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 05:27:20 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 05:27:36 : Could not find a part of the path 'D:\zzz\image\EqRepair\20220815171546361867465517\20220815171546365432850421\images (11)維修前遠照.jpg'.
+2022/8/15 下午 05:27:36 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 05:42:48 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 05:42:48 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:04:22 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:04:22 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:04:52 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:04:52 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:07:29 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:07:29 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:08:22 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:08:22 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:09:01 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:09:01 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:09:57 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:09:57 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:11:44 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:11:44 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:15:12 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:15:12 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:17:27 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:17:28 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:19:28 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:19:28 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:20:26 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:20:26 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:21:16 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:21:16 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:24:05 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:24:05 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:26:27 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:26:27 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:27:35 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:27:35 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:35:37 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:35:37 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:36:50 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 06:36:50 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:11:52 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:11:53 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:14:25 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:14:26 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:15:13 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:15:14 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:25:12 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:25:12 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:26:07 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:26:07 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:26:37 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:26:37 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:29:13 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:29:13 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:30:55 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:30:55 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:32:37 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:32:37 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:33:41 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:33:41 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:34:54 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:34:55 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:35:34 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:35:34 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:37:47 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:37:47 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:39:16 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:39:17 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:39:41 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:39:42 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:40:51 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:40:51 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:42:08 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:42:08 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:42:52 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:42:52 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:43:10 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:43:11 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:43:33 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:43:33 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:44:55 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:44:55 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:46:23 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:46:23 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:52:00 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:52:00 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:53:51 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:53:51 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:57:43 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:57:43 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:58:49 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:58:49 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:59:12 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 10:59:13 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:01:02 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:01:03 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:01:30 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:01:30 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:02:06 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:02:06 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:02:56 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:02:56 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:03:55 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:03:55 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:05:22 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:05:22 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:05:50 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:05:50 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:06:18 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:06:18 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:06:50 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:06:51 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:09:49 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:09:49 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:10:50 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:10:51 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:11:31 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:11:31 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:13:57 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:13:58 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:14:35 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:14:35 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:15:13 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:15:13 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:17:48 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:17:48 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:18:51 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:18:51 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:19:43 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:19:43 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:20:40 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:20:40 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:22:06 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:22:06 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:22:20 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:22:20 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:23:02 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:23:02 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:23:54 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:23:54 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:25:29 : Value cannot be null. (Parameter 'path2')
+2022/8/15 下午 11:25:29 : Could not find a part of the path 'D:\zzz\image\EqRepair\20220815171546361867465517\20220815171546365432850421\IMG_6795維修前近照.JPG'.
+2022/8/15 下午 11:26:34 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:26:35 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:28:00 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:28:01 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:28:21 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:28:21 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:29:24 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:29:24 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:30:19 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:30:20 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:35:48 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:35:48 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:37:17 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:37:17 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:38:00 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:38:00 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:41:48 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:41:48 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:56:11 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:56:11 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:59:15 : SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1 ORDER BY 1 OFFSET 0 ROWS FETCH FIRST 5 ROWS ONLY : 無效的物件名稱 'Member'。
+2022/8/15 下午 11:59:15 : SELECT COUNT(*) FROM (SELECT * FROM (SELECT     a.MemberSN,     a.UserId,     a.CName FROM     Member a with (nolock) WHERE     1=1) allView) tmpVw : 無效的物件名稱 'Member'。

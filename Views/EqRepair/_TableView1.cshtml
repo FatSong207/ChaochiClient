@@ -1,0 +1,31 @@
+﻿@Html.Raw(Model.GoPage())
+
+<table class="table rwd-table table-hover table-center" border="0" cellspacing="0" cellpadding="0">
+    <thead>
+        <tr>
+            <th width="12%">流水編號</th>
+            <th width="12%">合約編號</th>
+            <th>修繕項目</th>
+            <th>建物門牌地址</th>
+            <th width="12%">申請日期</th>
+            <th width="8%">處理狀態</th>
+            <th width="12%">結案日期</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.RecordCount > 0) {
+            foreach (DataRow dr in Model.Data) {
+                <tr>
+                    @*                    <td data-th="流水編號"><a href="javascript:void(DoFunc('Modify','@(dr["guid"])'))" class="member_add">@(dr["guid"])</a></td>*@
+                    <td data-th="流水編號"><a href="javascript:void(info2('@dr["guid"]','@dr["State"]'))" class="member_add">@(dr["guid"])</a></td>
+                    <td data-th="合約編號">@dr["CID"]</td>
+                    <td data-th="修繕項目">@(dr["EqName"])</td>
+                    <td data-th="建物地址">@(dr["BAdd"])</td>
+                    <td data-th="申請日期">@(dr["ApplicationDate"])</td>
+                    <td data-th="處理狀態">@(dr["State"])</td>
+                    <td data-th="結案日期">@(dr["EndCaseDate"])</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

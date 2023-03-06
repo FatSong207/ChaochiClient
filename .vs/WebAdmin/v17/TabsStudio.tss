@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>F:\! .Net Core\WebAdmin\Views\Member\Index.cshtml</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>F:\! .Net Core\WebAdmin\web.config</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>F:\! .Net Core\WebAdmin\bundleconfig.json</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>F:\! .Net Core\WebAdmin\Controllers\MemberController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>F:\! .Net Core\WebAdmin\Views\Member\_UserAccount.cshtml</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>F:\! .Net Core\WebAdmin\Views\Shared\_Pager.cshtml</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

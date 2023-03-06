@@ -1,0 +1,42 @@
+﻿@{
+    var count = Model.Length;
+    var test = "";
+}
+<table class="table rwd-table table-hover table-center" border="0" cellspacing="0" cellpadding="0">
+    <thead>
+        <tr>
+            <th>設備名稱</th>
+            <th>當前狀態</th>
+            <th>維修前近照</th>
+            <th>維修前遠照</th>
+            <th>維修中近照</th>
+            <th>維修中遠照</th>
+            <th>維修後近照</th>
+            <th>維修後遠照</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (count > 0) {
+            foreach (DataRow dr in Model) {
+                <tr>
+                    <td data-th="設備名稱">@dr["EqName"]</td>
+                    <td data-th="當前狀態">@dr["CurrentState"]</td>
+                    <td data-th="維修前近照"><img src="@Url.Action("GetImg","EqRepair",new{id = dr["Id"],EqRepairId = dr["EqRepairId"],fileName = dr["BeforeRepairClose"]})" class="img-thumbnail" /></td>
+                    <td data-th="維修前遠照"><img src="@Url.Action("GetImg","EqRepair",new{id = dr["Id"],EqRepairId = dr["EqRepairId"],fileName = dr["BeforeRepairFar"]})" class="img-thumbnail" /></td>
+                    <td data-th="維修中近照"><img src="@Url.Action("GetImg","EqRepair",new{id = dr["Id"],EqRepairId = dr["EqRepairId"],fileName = dr["RepairingClose"]})" class="img-thumbnail" /></td>
+                    <td data-th="維修中遠照"><img src="@Url.Action("GetImg","EqRepair",new{id = dr["Id"],EqRepairId = dr["EqRepairId"],fileName = dr["RepairingFar"]})" class="img-thumbnail" /></td>
+                    <td data-th="維修後近照"><img src="@Url.Action("GetImg","EqRepair",new{id = dr["Id"],EqRepairId = dr["EqRepairId"],fileName = dr["AfterRepairClose"]})" class="img-thumbnail" /></td>
+                    <td data-th="維修後遠照"><img src="@Url.Action("GetImg","EqRepair",new{id = dr["Id"],EqRepairId = dr["EqRepairId"],fileName = dr["AfterRepairFar"]})" class="img-thumbnail" /></td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+<style>
+    img {
+        max-height: 100px;
+        max-width: 100px;
+        height: auto;
+        width: auto;
+    }
+</style>

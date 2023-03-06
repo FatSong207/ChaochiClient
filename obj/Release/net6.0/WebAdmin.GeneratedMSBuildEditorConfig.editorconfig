@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.RootNamespace = WebAdmin
+build_property.RootNamespace = WebAdmin
+build_property.ProjectDir = D:\ccOut\ChaochiFront\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ccOut\ChaochiFront
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ccOut/ChaochiFront/Views/Complaint/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGxhaW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ccOut/ChaochiFront/Views/EqRepair/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXFSZXBhaXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ccOut/ChaochiFront/Views/EqRepair/_TableView1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXFSZXBhaXJcX1RhYmxlVmlldzEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ccOut/ChaochiFront/Views/EqRepair/_TableVIewDetailImg.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXFSZXBhaXJcX1RhYmxlVklld0RldGFpbEltZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ccOut/ChaochiFront/Views/EqRepair/_TableViewEqRepairDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXFSZXBhaXJcX1RhYmxlVmlld0VxUmVwYWlyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ccOut/ChaochiFront/Views/Member/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ccOut/ChaochiFront/Views/Member/_TableView1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXF9UYWJsZVZpZXcxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ccOut/ChaochiFront/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ccOut/ChaochiFront/Views/Shared/_Pager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYWdlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ccOut/ChaochiFront/Views/Shared/_PartialFooter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ccOut/ChaochiFront/Views/Shared/_PartialHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ccOut/ChaochiFront/Views/Shared/_PartialLeftMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsTGVmdE1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ccOut/ChaochiFront/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ccOut/ChaochiFront/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

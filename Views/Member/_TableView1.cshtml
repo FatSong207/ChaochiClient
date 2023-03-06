@@ -1,0 +1,26 @@
+﻿@Html.Raw(Model.GoPage())
+
+<table class="table rwd-table table-hover table-center" border="0" cellspacing="0" cellpadding="0">
+    <thead>
+        <tr>
+            <th width="20%">姓名</th>
+            <th width="20%">生日</th>
+            <th width="20%">身分證字號</th>
+            <th width="20%">客戶類型</th>
+            <th>審核狀態</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.RecordCount > 0) {
+            foreach (DataRow dr in Model.Data) {
+                <tr>
+                    <td data-th="姓名"><a href="javascript:void(DoFunc('Modify','@(dr["MemberSN"])'))" class="member_add">@(dr["CName"])</a></td>
+                    <td data-th="生日">1990/11/7</td>
+                    <td data-th="身分證字號">@(dr["UserId"])</td>
+                    <td data-th="客戶類型">洽談中</td>
+                    <td data-th="客戶類型">審核中</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

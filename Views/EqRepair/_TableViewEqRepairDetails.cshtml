@@ -1,0 +1,36 @@
+﻿@*@Html.Raw(Model.GoPage())*@
+@{
+    var model = Model;
+    //var count = model.Count;
+    //var eqname = model[0].EqName;
+    List<string> list = ViewBag.dataList;
+            //var count = list.Count;
+
+}
+<table class="table rwd-table table-hover table-left" border="0" cellspacing="0" cellpadding="0">
+    <thead>
+        <tr>
+            <th width="15%">設備名稱</th>
+            <th width="10%">數量</th>
+            <th width="10%">品牌</th>
+            <th>修繕原因</th>
+            <th width="10%">修繕前近照上傳</th>
+            <th width="10%">修繕前遠照上傳</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (model.Count > 0) {
+            foreach (var item in model) {
+                <tr>
+                    <td data-th="設備名稱">@item.EqName</td>
+                    <td data-th="數量">@item.EqCount</td>
+                    <td data-th="品牌">@item.EqBrand</td>
+                    <td data-th="修繕原因"><input type="text" class="form-control" name="@item.Id"></td>
+                    <td data-th="修繕前近照"><input type="file" class="fileUpload" id="file1" name="@item.Id" accept="image/*" onchange="MakeTmb(this, '@item.Id', '近')" /></td>
+                    <td data-th="修繕前遠照"><input type="file" class="fileUpload" id="file1" name="@item.Id" accept="image/*" onchange="MakeTmb(this, '@item.Id', '遠')" /></td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
